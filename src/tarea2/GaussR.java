@@ -1,5 +1,6 @@
 package tarea2;
 
+
 public class GaussR {
     
     private int r ; 
