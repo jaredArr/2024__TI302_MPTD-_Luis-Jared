@@ -1,6 +1,10 @@
 package tarea2;
 
 public class CircularyLinkedList<E>{
+
+    void addFirst(String d) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 private static class Node <E>{
     private  E element;
     private Node<E> next ;
